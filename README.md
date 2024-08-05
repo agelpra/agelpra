@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm [Your Name], and I'm passionate about learning and coding in Python. Welcome to my GitHub profile!
+I'm agelpra, and I'm passionate about learning and coding in Python. Welcome to my GitHub profile!
 
 ### About Me
 
